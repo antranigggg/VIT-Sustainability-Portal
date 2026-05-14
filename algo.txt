@@ -1,0 +1,12 @@
+1. From front end, data is sent to the table in database for storage
+2. Questions that will input the arguments for the formulas
+3. (Randomized tips at the bottom for fun purposes)
+4. Explanation of our formulas
+5. Show results
+ - compare to the avg carbon footprint of a VITian
+ -tell them if they are better or worse
+6. Give personalized tips based on scores in different fields!!
+ - we need to make a points system so that we can calculate where is a person excelling environmentally and where they are lagging
+ - according to those numbers, we must generate a list of tips (from an already made list, table or dictionary) that will be personally relevant
+7. Score board calculation
+8. Feedback

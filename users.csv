@@ -1,0 +1,8 @@
+user_id,user_uuid,email,username,picture,hostel_id,created_at,is_admin,eco_points,date_joined
+1001,,,Andy,,1,,,190,2025-11-06
+1002,,,shraddha,,2,,,82,2025-11-08
+1003,,,sujal,,3,,,86,2025-11-08
+1004,,,advaith,,1,,,71,2025-11-08
+1005,,,hamsika,,99,,,72,2025-11-08
+1006,,,divit,,1,,,55,2025-11-08
+1007,,,srihari,,99,,,73,2025-11-08
